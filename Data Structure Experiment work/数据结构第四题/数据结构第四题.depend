@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593824880 source:c:\数据结构第四题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

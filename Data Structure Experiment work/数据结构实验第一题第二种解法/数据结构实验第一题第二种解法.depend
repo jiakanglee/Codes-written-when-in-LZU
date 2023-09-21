@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1590824729 source:c:\数据结构实验第一题第二种解法\main.cpp
+	<cstdio>
+	<iostream>
+	<cstring>
+	<string>
+	<cmath>
+	<string.h>
+	<queue>
+	<map>
+	<bits/stdc++.h>
+
