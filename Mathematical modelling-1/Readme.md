@@ -1,1 +1,1 @@
-Hi! This was a university level mathematicla modelling test regarding covid19's containment and prediction, and we have used time series means to address this problem
+Hi! These were codes for mathematicla modelling tests that I've written.
